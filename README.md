@@ -30,7 +30,7 @@ The versioning uses a three part version system, "a.b.c" - "a" represents a majo
 
 This is an intermediate release to ensure that some front end components become visible in advance of the first release. In particular the annotation help button on the document view and the about page that gives built with attribution. This release also fixes the "." in usernames bug that would not allow people to log in or access their profile.
 
-This release also contains components that are not officially ready but sit quietly in the background waiting to be deployed. This includes the management command to build models, the corpus object to link data sets, estimator models for Scikit-Learn pipeline/estimator data storage and more. These elements will be discussed in detail in future releases. 
+This release also contains components that are not officially ready but sit quietly in the background waiting to be deployed. This includes the management command to build models, the corpus object to link data sets, estimator models for Scikit-Learn pipeline/estimator data storage and more. These elements will be discussed in detail in future releases.
 
 ### Version 0.1 Beta 1
 
@@ -48,3 +48,8 @@ This is the first beta release of the Partisan Discourse application. Right now 
 [coveralls_img]: https://coveralls.io/repos/github/DistrictDataLabs/partisan-discourse/badge.svg?branch=master
 [coveralls_href]:https://coveralls.io/github/DistrictDataLabs/partisan-discourse?branch=master
 [partisan.jpg]: https://flic.kr/p/a3bXVU
+
+
+### List of Contributors
+
+* Allen Leis
